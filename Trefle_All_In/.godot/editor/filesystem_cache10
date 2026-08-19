@@ -1,0 +1,10 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1787181625
+Main.tscn::PackedScene::-1::1787181557::0::1::::<><><>0<>0<><>::res://scripts/main.gd
+README.md::TextFile::-1::1787181557::0::1::::<><><>0<>0<><>::
+::res://assets/::1787181557
+trefle_profile_reference.png::CompressedTexture2D::4479130085481534288::1787181557::1787181626::0::::<><><>0<>0<>54180abb4539e61f8b4e3bf71dc9a1bb<>::
+::res://scripts/::1787181557
+enemy.gd::GDScript::5154960405894988980::1787181557::0::1::::TrefleEnemy<>Node2D<><>0<>0<><>::
+main.gd::GDScript::5260573681334362997::1787181557::0::1::::<>Node2D<><>0<>0<><>::
+player.gd::GDScript::4467707700235103920::1787181557::0::1::::TreflePlayer<>CharacterBody2D<><>0<>0<><>::
